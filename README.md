@@ -1,2 +1,2 @@
-# Natural-Bloom-Website
-Online Flower Delivery Service Web Site
+# My Trip To Bar Harbor
+The sights of bar harbor's natural scenery!
